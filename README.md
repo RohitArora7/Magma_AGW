@@ -8,7 +8,7 @@ bash agw_install_ubuntu.sh 192.168.5.120/24 192.168.5.1
 
 
 ```bash
-find / -name "magma" -type d
+
 
 /usr/local/lib/python3.8/dist-packages/magma
 /usr/local/share/magma
